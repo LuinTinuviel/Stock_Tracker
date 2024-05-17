@@ -1,0 +1,19 @@
+{
+  "stock": {
+    "stock_name": "NOKIA.HE"
+  },
+  "news": {
+    "endpoint": "https://newsapi.org/v2/everything",
+    "parameters": {
+      "apiKey": "09a5eadc07f542baa5e0b1d70b4c3536",
+      "q": "Nokia",
+      "pageSize": 3
+    }
+  },
+  "twilio": {
+    "from_number": "+18084259136",
+    "to_number": "+48693062747",
+    "account_sid": "AC56a36a8fc1ef7655f8fce7199861ccf3",
+    "auth_token": "119e2aa6af170bb80b5776fd88d232de"
+  }
+}
