@@ -12,7 +12,7 @@
   },
   "twilio": {
     "from_number": "+18084259136",
-    "to_number": "+48693062747",
+    "to_number": "+48666666666",
     "account_sid": "AC56a36a8fc1ef7655f8fce7199861ccf3",
     "auth_token": "119e2aa6af170bb80b5776fd88d232de"
   }
